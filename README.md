@@ -1,6 +1,6 @@
 
 # Chat AI
-<img src="https://raw.githubusercontent.com/orange2ai/orange2ai/main/orange.png" alt="avatar" width="100" height="100">
+<img src="https://raw.githubusercontent.com/asaketsu/homepage/asaketsu-patch-1/av.png" alt="avatar" width="422" height="600">
 
 ## About Me
 
